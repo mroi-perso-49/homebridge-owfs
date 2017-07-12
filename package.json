@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-owfs",
-  "version": "1.3.1",
+  "name": "homebridge-owfs-mroi",
+  "version": "1.3.2",
   "description": "A HomeBridge plugin for based on OWSERVER protocol",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jchassin/homebridge-owfs.git"
+    "url": "git+https://github.com/mroi-perso-49/homebridge-owfs.git"
   },
   "files": [
     "index.js",
@@ -24,9 +24,9 @@
   "author": "Jean Chassin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jchassin/homebridge-owfs/issues"
+    "url": "https://github.com/mroi-perso-49/homebridge-owfs/issues"
   },
-  "homepage": "https://github.com/jchassin/homebridge-owfs#readme",
+  "homepage": "https://github.com/mroi-perso-49/homebridge-owfs#readme",
   "dependencies": {
     "owjs": ">=0.1.1"
   }
